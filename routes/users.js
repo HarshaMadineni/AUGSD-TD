@@ -12,6 +12,12 @@ let users = {
       avatar: "/images/team/17.jpg",
       social: {}
     },
+    "Dr. Dipanjan Chakravorty": {
+      name: "Dr. Dipanjan Chakravorty",
+      title: "Timetable Nucleus Member",
+      avatar: "/images/team/Dipanjan.jpg",
+      social: {}
+    },
     "Mr. Anil Zedia": {
       name: "Mr. Anil Zedia",
       title: "Programmer",
@@ -24,22 +30,10 @@ let users = {
       avatar: "/images/team/14.jpg",
       social: {}
     },
-    "Mr Manoj Kumar Dash": {
-      name: "Mr Manoj Kumar Dash",
-      title: "Office Assistant",
-      avatar: "/images/team/25.jpeg",
-      social: {}
-    },
     "Sohail Rajdev": {
       name: "Sohail Rajdev",
       title: "System Administrator & Software Developer",
       avatar: "/images/team/16.jpg",
-      social: {}
-    },
-    "Kailash Bhalaki": {
-      name: "Kailash Bhalaki",
-      title: "System Administrator & Software Developer",
-      avatar: "/images/team/18.jpg",
       social: {}
     },
     "Harshavardhan Madineni": {
@@ -59,14 +53,7 @@ let users = {
       title: "Office Assistant",
       avatar: "/images/team/26.jpeg",
       social: {}
-    },
-    "Hardik Parnami": {
-      name: "Hardik Parnami",
-      title: "Software Developer",
-      avatar: "/images/team/24.jpg",
-      social: {}
-    },
-   
+    }
   },
   AUGSD: {
     "Prof. Sridhar Raju": {
